@@ -1,28 +1,4 @@
 {
-  "_from": "xnpm",
-  "_id": "xnpm@3.0.0",
-  "_inBundle": false,
-  "_integrity": "sha512-9GSJUgz1D4MfyKU7KRqwOjXCXTqWdFNvEr7eUBYchQiVc744mqK/MzXPNR2WsPkmkOa4ywfg8C2n8h+13Bey1Q==",
-  "_location": "/xnpm",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "xnpm",
-    "name": "xnpm",
-    "escapedName": "xnpm",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/xnpm/-/xnpm-3.0.0.tgz",
-  "_shasum": "fc804e458cc460009b1a2b966bc8817d2578aefb",
-  "_spec": "xnpm",
-  "_where": "d:\\dingding\\xnpm_test",
   "bugs": {
     "url": "https://github.com/github/fetch/issues"
   },
