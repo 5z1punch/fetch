@@ -3,4 +3,4 @@ export function fetchPolyfill(input, init) {
 }
 
 fetchPolyfill.polyfill = true;
-export default = {fetchPolyfill: fetchPolyfill};
+export default = {"fetchPolyfill": fetchPolyfill};
