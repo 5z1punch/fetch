@@ -438,15 +438,8 @@ try {
   DOMException.prototype.constructor = DOMException
 }
 
-export function fetch(input, init) {
+export function fetchPolyfill(input, init) {
   return self.fetch(input,init);
 }
 
-fetch.polyfill = true
-
-if (!self.fetch) {
-  self.fetch = fetch
-  self.Headers = Headers
-  self.Request = Request
-  self.Response = Response
-}
+fetchPolyfill.polyfill = true
