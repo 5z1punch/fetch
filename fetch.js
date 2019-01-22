@@ -1,5 +1,5 @@
 export function fetchPolyfill(input, init) {
-  return fetch(input,init);
+  return self.fetch(input,init);
 }
 
 export default  {fetchPolyfill: fetchPolyfill};
