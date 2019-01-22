@@ -1,16 +1,16 @@
 {
-  "_from": "whatwg-fetch",
-  "_id": "whatwg-fetch@3.0.0",
+  "_from": "xnpm",
+  "_id": "xnpm@3.0.0",
   "_inBundle": false,
   "_integrity": "sha512-9GSJUgz1D4MfyKU7KRqwOjXCXTqWdFNvEr7eUBYchQiVc744mqK/MzXPNR2WsPkmkOa4ywfg8C2n8h+13Bey1Q==",
-  "_location": "/whatwg-fetch",
+  "_location": "/xnpm",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "whatwg-fetch",
-    "name": "whatwg-fetch",
-    "escapedName": "whatwg-fetch",
+    "raw": "xnpm",
+    "name": "xnpm",
+    "escapedName": "xnpm",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -19,9 +19,9 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-3.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/xnpm/-/xnpm-3.0.0.tgz",
   "_shasum": "fc804e458cc460009b1a2b966bc8817d2578aefb",
-  "_spec": "whatwg-fetch",
+  "_spec": "xnpm",
   "_where": "d:\\dingding\\xnpm_test",
   "bugs": {
     "url": "https://github.com/github/fetch/issues"
@@ -58,7 +58,7 @@
   "license": "MIT",
   "main": "./dist/fetch.umd.js",
   "module": "./fetch.js",
-  "name": "whatwg-fetch",
+  "name": "xnpm",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/github/fetch.git"
