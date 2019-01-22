@@ -1,11 +1,15 @@
 {
-  "name": "xnpm",
-  "version": "1.0.0",
-  "description": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A window.fetch polyfill.",
+  "license": "MIT",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "module": "./fetch.js",
+  "name": "xnpm",
+  "repository": {
   },
-  "author": "",
-  "license": "ISC"
+  "scripts": {
+    "test": "echo 1"
+  },
+  "version": "4.0.0"
 }
