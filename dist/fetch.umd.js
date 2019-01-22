@@ -444,11 +444,11 @@
     exports.DOMException.prototype.constructor = exports.DOMException;
   }
 
-  function fetch(input, init) {
+  function fetchPolyfill(input, init) {
     return this.fetch(input,init);
   }
 
-  fetch.polyfill = true;
+  fetchPolyfill.polyfill = true;
 
   if (!self.fetch) {
     self.fetch = fetch;
