@@ -1,3 +1,8 @@
+# xnpm
+这是 https://github.com/github/fetch.git 的一个fork，当时测一个沙盒的时候被莫名其妙的提交成了项目，并且有一个意义不明的名字 xnpm。
+
+我自己也已经忘了这些测试是做什么的了。。。。只是怕有用不敢删。。。
+
 # window.fetch polyfill
 
 The `fetch()` function is a Promise-based mechanism for programmatically making
